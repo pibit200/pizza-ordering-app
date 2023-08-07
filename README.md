@@ -2,7 +2,6 @@ Realtime pizza app using Node-express-mongo-socket.io
 
 ![258754640-08b8db77-2e63-46c5-8d11-d9be61662946](https://github.com/pibit200/pizza-ordering-app/assets/134590398/f09beb0a-fec8-403c-856e-a89193c5b541)
 ![258755377-3fa8172a-7ea0-48c0-8e1b-fd72cf1a3d02](https://github.com/pibit200/pizza-ordering-app/assets/134590398/e0be7bba-d380-4a18-aee7-7deaf8853dc7)
-
 ![Screenshot 2023-08-07 143936](https://github.com/pibit200/pizza-ordering-app/assets/134590398/2fe37beb-b013-4004-9791-6a614278b806)
 ![Screenshot 2023-08-07 144013](https://github.com/pibit200/pizza-ordering-app/assets/134590398/88d64c1a-a653-4f23-80c5-2943f6dd3fb2)
 ![Screenshot 2023-08-07 144031](https://github.com/pibit200/pizza-ordering-app/assets/134590398/9cdfa214-f178-4917-9e3f-fe65c526c01b)
