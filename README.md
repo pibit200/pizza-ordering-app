@@ -1,14 +1,16 @@
 Realtime pizza app using Node-express-mongo-socket.io
 
-![258754640-08b8db77-2e63-46c5-8d11-d9be61662946](https://github.com/pibit200/pizza-ordering-app/assets/134590398/f09beb0a-fec8-403c-856e-a89193c5b541)
-![258755377-3fa8172a-7ea0-48c0-8e1b-fd72cf1a3d02](https://github.com/pibit200/pizza-ordering-app/assets/134590398/e0be7bba-d380-4a18-aee7-7deaf8853dc7)
-![Screenshot 2023-08-07 143936](https://github.com/pibit200/pizza-ordering-app/assets/134590398/2fe37beb-b013-4004-9791-6a614278b806)
-![Screenshot 2023-08-07 144013](https://github.com/pibit200/pizza-ordering-app/assets/134590398/88d64c1a-a653-4f23-80c5-2943f6dd3fb2)
-![Screenshot 2023-08-07 144031](https://github.com/pibit200/pizza-ordering-app/assets/134590398/9cdfa214-f178-4917-9e3f-fe65c526c01b)
-![Screenshot 2023-08-07 144115](https://github.com/pibit200/pizza-ordering-app/assets/134590398/0368c9ad-43cc-4076-b485-533ca1fac87d)
-![Screenshot 2023-08-07 144145](https://github.com/pibit200/pizza-ordering-app/assets/134590398/8b9cdd1a-f468-4aa2-934d-f733cb4d7b27)
-![Screenshot 2023-08-07 144205](https://github.com/pibit200/pizza-ordering-app/assets/134590398/840e91a5-3f00-4dd3-9fe4-da97e6ef947a)
-![Screenshot 2023-08-07 144247](https://github.com/pibit200/pizza-ordering-app/assets/134590398/43245f78-9e8f-49c1-a450-1795cfef0674)
+![image](https://github.com/pibit200/pizza-ordering-app/assets/134590398/f0d0795f-adf2-4ab6-969e-b752ba8da77f)
+![image](https://github.com/pibit200/pizza-ordering-app/assets/134590398/acadde9a-1807-4916-ae71-48cc507c7338)
+![image](https://github.com/pibit200/pizza-ordering-app/assets/134590398/ad09d5a6-2020-438a-a953-bd33f3a649a0)
+![image](https://github.com/pibit200/pizza-ordering-app/assets/134590398/4a16b172-3183-4059-9c67-94b096aeb633)
+![image](https://github.com/pibit200/pizza-ordering-app/assets/134590398/33bc9ac3-1127-412d-92ee-ad6a24de8fcd)
+![image](https://github.com/pibit200/pizza-ordering-app/assets/134590398/38e1119d-121d-4125-8a2c-a87e89ffce6d)
+![image](https://github.com/pibit200/pizza-ordering-app/assets/134590398/6239e315-6251-41f1-9e84-cf76ad6840d2)
+![image](https://github.com/pibit200/pizza-ordering-app/assets/134590398/38fdc80f-556c-4ed8-878d-fc31a0b9729c)
+![image](https://github.com/pibit200/pizza-ordering-app/assets/134590398/21860c7d-3f17-4afb-9578-379472c9cdda)
+
+
 
 The real-time pizza ordering website is a user-friendly platform that allows customers to order pizzas online and receive real-time updates on their order status. The website is built using HTML, CSS, and JavaScript for the front-end, Express.js as the web application framework, Socket.io for real-time communication, MongoDB for the database, EJS (Embedded JavaScript) and Node.js as the templating engine.
 
