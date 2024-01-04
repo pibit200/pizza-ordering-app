@@ -14,7 +14,8 @@ const Emitter=require('events')
 //database connection
 
 
-const url='mongodb://0.0.0.0:27017/pizza';
+// const url='mongodb://0.0.0.0:27017/pizza';
+const url='mongodb://127.0.0.1/pizza';
 mongoose.connect(url, { useNewUrlParser: true, useUnifiedTopology: true });
 const connection = mongoose.connection;
 connection.once('open', () => {
